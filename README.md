@@ -1,1 +1,1 @@
-# CosmicARia
+CosmicARia is a mobile application that provides an immersive exploration of celestial bodies in our solar system. Users can discover detailed information about planets with voice assistance, view 3D models, and even experience augmented reality to visualize these celestial wonders in their real-world environment offering an educational and captivating journey through space for users.
